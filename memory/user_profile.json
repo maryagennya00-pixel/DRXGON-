@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "profession": "",
+  "location": "",
+  "language": "English",
+  "goals": [],
+  "preferences": {
+    "response_length": "balanced",
+    "formality": "professional",
+    "voice_enabled": false,
+    "preferred_agents": []
+  },
+  "created_at": "2026-09-19T20:15:39.070321",
+  "last_seen": "2026-09-19T20:33:13.389096",
+  "total_sessions": 2
+}
