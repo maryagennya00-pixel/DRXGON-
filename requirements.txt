@@ -1,0 +1,17 @@
+streamlit
+langchain-groq
+langchain-community
+langchain-core
+langchain-chroma
+langgraph
+chromadb
+sentence-transformers
+tavily-python
+langsmith
+groq
+mcp
+fpdf2
+requests
+python-dotenv
+audio-recorder-streamlit
+streamlit-paste-button
